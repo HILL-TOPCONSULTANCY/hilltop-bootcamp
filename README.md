@@ -23,7 +23,7 @@
 - The squad with the best project implementation will be selected to maintain and further develop the application.
 
 ### **Squads:**
-- **Squad Alpha**
+ *Squad Alpha*
 - Binla Lambert
 - Ndisho Patience
 - Honorine Muafah
@@ -31,8 +31,8 @@
 - Melo Astonia
 **Support:**
 _Prof Michael Gwei_
-- **Squad Beta**
-- Teckler
+*Squad Beta*
+- Theckle
 - Muafah Holda
 - Kebuya Nelson
 - Cornelius
