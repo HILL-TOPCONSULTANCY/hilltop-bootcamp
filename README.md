@@ -29,9 +29,8 @@
 - Honorine Muafah
 - Gertrude Otieno
 - Melo Astonia
-- **Support:**
-- _Prof Michael Gwei_
- *Squad Beta*
+- **Support:** _Prof Michael Gwei_
+* *Squad Beta*
 - Theckle
 - Muafah Holda
 - Kebuya Nelson
