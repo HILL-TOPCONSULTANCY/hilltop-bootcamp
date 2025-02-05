@@ -30,7 +30,7 @@
 - Gertrude Otieno
 - Melo Astonia
 **Support:**
-_Prof Michael Gwei_
+- _Prof Michael Gwei_
 *Squad Beta*
 - Theckle
 - Muafah Holda
