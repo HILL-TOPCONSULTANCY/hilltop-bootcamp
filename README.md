@@ -86,6 +86,7 @@ The project is divided into **two sprints**, each lasting two weeks.
 
 ## **5. Evaluation Criteria**
 At the end of the project, both squads will be evaluated based on:
+✅ **Creativity:** How Well can you improvise and how do you navigate challenging situations
 ✅ **Functionality:** Does the application meet all requirements?  
 ✅ **Performance:** Is the application optimized for speed and scalability?  
 ✅ **Security:** Are security best practices implemented?  
