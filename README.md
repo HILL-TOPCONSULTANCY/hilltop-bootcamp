@@ -37,8 +37,10 @@
 - Kebuya Nelson
 - Cornelius
 - Forbisong
-**Support:**
+- **Support:**
 _Prof Prince_
+
+
 Each squad consists of:
 - **1 Project Manager** – Oversees progress, ensures timely delivery.
 - **2 Backend Developers** – Develop and deploy the Node.js API.
